@@ -1,10 +1,11 @@
-# Hello World! Its Yadnesh 👋
+# Hello World! 
+# Its Yadnesh 👋
 
 ## I am an avid consumer of knowledge with three years of experience in data science and machine learning roles. I love to challenge myself with real world problems and develop some unique solutions. Looking forward to learn and grow more 🌿
 
 I am a trusted member of the StackExchange and in my free time, I like to explore more and help others on stackoverflow. My [stackoverlflow profile.](https://stackexchange.com/users/18750491/yadneshd?tab=accounts)
 
-Most of my contributed code is in private repositories. My technical stack includes following skills. 
+Most of my contributed code is in private repositories. My tech stack includes following skills. 
 
 * Deep learning packages    - PyTorch, Keras, Tensorflow, OpenCV.
 * Machine learning packages - Scikit learn, NumPy, Matplotlib, Pandas, Tensorboard,
