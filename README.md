@@ -5,7 +5,7 @@
 
 I am a trusted member of the StackExchange and in my free time, I like to explore more and help others on stackoverflow. My [stackoverlflow profile.](https://stackexchange.com/users/18750491/yadneshd?tab=accounts)
 
-Most of my contributed code is in private repositories. My tech stack includes following skills. 
+My tech stack includes following skills. 
 
 * Deep learning packages    - PyTorch, Keras, Tensorflow, OpenCV.
 * Machine learning packages - Scikit learn, NumPy, Matplotlib, Pandas, Tensorboard,
